@@ -11,14 +11,25 @@ header h1 {
   text-align: center;
 }
 
+main {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+main h2 {
+  text-align: center;
+}
+
 hr {
   padding: 10px;
   background-color: rgb(149, 182, 193);
 }
 
-
+div {
+  float:right;
+  padding-left: %;
+}
 
 footer {
-  background-color: rgb(37,40,147);
+  background-color: rgb(30, 71, 137);
 }
 
