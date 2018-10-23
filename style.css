@@ -14,6 +14,7 @@ header h1 {
 main {
   padding-left: 20%;
   padding-right: 20%;
+  font-family: 
 }
 main h2 {
   text-align: center;
@@ -26,7 +27,11 @@ hr {
 
 div {
   float:right;
-  padding-left: %;
+  
+}
+
+#picture {
+  width: 20%;
 }
 
 footer {
