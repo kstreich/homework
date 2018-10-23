@@ -1,3 +1,6 @@
+* {
+  font-family: Arial;
+}
 
 header {
   padding: 5px;
@@ -5,36 +8,56 @@ header {
   background-color: rgb(30, 71, 137);
   color:white;
   font-size: 25px;
+  border: black solid 2px;
+  height:69px;
+
 }
 
 header h1 {
   text-align: center;
+  font-weight: 200;
+  margin-top: 13px;
+  margin: 16px;
 }
 
-main {
-  padding-left: 20%;
-  padding-right: 20%;
-  font-family: 
-}
-main h2 {
-  text-align: center;
+
+.image {
+  width: 50%;
 }
 
-hr {
-  padding: 10px;
-  background-color: rgb(149, 182, 193);
+section {
+  margin-left: 20%;
+  margin-right: 5%;
+  margin-bottom: 2%;
 }
 
-div {
-  float:right;
-  
+
+#mainSection {
+  position: absolute;
+  width:40%;
 }
 
-#picture {
-  width: 20%;
+#sideSection {
+  position:absolute;
+  width: 30%;
+  margin-left: 45%;
+  padding: 30px;
+}
+
+#description {
+  font-size: 12px;
 }
 
 footer {
   background-color: rgb(30, 71, 137);
+  padding: 60px;
+  position: absolute;
+  bottom: 2px;
+  width:87vw;
+  border: black 2px solid;
 }
 
+#line {
+  background-color: rgb(187, 220, 242);
+  padding: 6px;
+}
