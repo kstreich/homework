@@ -1,0 +1,24 @@
+
+header {
+  padding: 5px;
+  font-family: Arial;
+  background-color: rgb(30, 71, 137);
+  color:white;
+  font-size: 25px;
+}
+
+header h1 {
+  text-align: center;
+}
+
+hr {
+  padding: 10px;
+  background-color: rgb(149, 182, 193);
+}
+
+
+
+footer {
+  background-color: rgb(37,40,147);
+}
+
